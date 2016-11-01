@@ -25,7 +25,7 @@ Most likely, you will want to add a reference to the Corfu artifact as well:
 <dependencies>
         <dependency>
             <groupId>org.corfudb</groupId>
-            <artifactId>corfudb</artifactId>
+            <artifactId>corfu</artifactId>
             <version>0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
